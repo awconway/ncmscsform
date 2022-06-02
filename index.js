@@ -1,3 +1,5 @@
+Survey.StylesManager.applyTheme("defaultV2");
+
 var surveyJSON = {
     "pages":[
        {
